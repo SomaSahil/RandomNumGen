@@ -12,7 +12,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node random_app_server.js",
+    "start": "node random_app_server.js"
   "repository": {
     "type": "git",
     "url": "git+https://github.com/SomaSahil/RandomNumGen.git"
