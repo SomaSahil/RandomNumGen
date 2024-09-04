@@ -4,5 +4,23 @@
     "cors": "^2.8.5",
     "express": "^4.19.2",
     "mongodb": "^6.8.0"
-  }
+  },
+  "name": "random_num_gen",
+  "version": "1.0.1",
+  "description": "a simple fullstack app backend to generate random numbers using mern stack",
+  "main": "random_app_server.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node random_app_server.js"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SomaSahil/RandomNumGen.git"
+  },
+  "author": "Sahil Soma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SomaSahil/RandomNumGen/issues"
+  },
+  "homepage": "https://github.com/SomaSahil/RandomNumGen#readme"
 }
